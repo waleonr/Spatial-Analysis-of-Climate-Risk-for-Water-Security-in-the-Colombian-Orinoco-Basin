@@ -68,6 +68,8 @@ All layers are retrieved, mosaicked and pre-processed through **Google Earth Eng
 
 ## Key Results
 
+<img width="1453" height="477" alt="image" src="https://github.com/user-attachments/assets/8aaf61a7-21e5-4c3c-9f45-496be77fd154" />
+
 - Mean climate risk across subzones **fell slightly on average, from 0.458 (2024) to 0.428 (2025)**, but rose sharply in specific subzones: 57 of 73 improved, 16 worsened.
   - Largest increase: *Directos Río Arauca (md)* (+0.132)
   - Largest decrease: *Caño Guanápalo y otros directos al Meta* (−0.121)
