@@ -78,26 +78,6 @@ All layers are retrieved, mosaicked and pre-processed through **Google Earth Eng
 - The spatial risk pattern is **highly robust to the expert weights** (Spearman ρ = 0.992–1.000 across 30 perturbation runs); the **fuzzy membership parameters are the larger source of uncertainty** (ρ = 0.90 on average, min 0.80).
 - Exposure (land-use: cropland, wetlands, water, population) shifted little year-to-year — the signal comes from Vulnerability and Hazard, not from what is on the ground.
 
-## Repository Structure
-
-```
-.
-├── orinoco_climate_risk_fuzzy_v48_EN.ipynb   # Main analysis notebook (English)
-├── orinoco_climate_risk_fuzzy_v48.ipynb      # Main analysis notebook (Spanish)
-├── build_v48.py                              # Pipeline/build script
-├── Orinoco.gpkg                              # Study-area geopackage (73 IDEAM subzones)
-├── outputs/
-│   ├── 08_poster_figures/                    # Final figures (maps, sensitivity plots, etc.)
-│   └── executive_summary_by_subbasin.csv     # Per-subzone risk/driver summary table
-├── Poster_Final.pptx                         # Conference poster (final)
-├── Poster_Content_EN_v48.docx                # Poster content/outline
-├── Metodologia_Resultados_Discusion_Conclusiones_Orinoco_v48.docx
-├── Articulo_Riesgo_Climatico_Orinoco.docx    # Manuscript draft
-└── README.md
-```
-
-> Adjust the tree above to match whatever subset of files you actually push to GitHub — large binary drafts (`.docx`, `.pptx`, intermediate notebook versions) are good candidates for `.gitignore` or Git LFS rather than plain commits.
-
 ## Getting Started
 
 ### Requirements
