@@ -140,9 +140,6 @@ If you use this code, data pipeline, or results, please cite:
 
 The authors thank Universidad Nacional de Colombia – Facultad de Ciencias Agrarias for institutional support, the **SDGnexus Network**, and the open-data providers whose datasets made this study possible: CHIRPS, ERA5-Land, Google Earth Engine, Dynamic World, WorldPop and IDEAM.
 
-## License
-
-*Add the license you want this repository released under (e.g. MIT for code, CC-BY-4.0 for data/figures).*
 
 ## Contact
 
